@@ -5,9 +5,9 @@ First, make sure you have Python 3.\* and the latest pip >= 20.\* (Check the `No
 1. Install [anaconda](https://docs.anaconda.com/anaconda/install/) to set up a virtual environment
 2. `conda create -n sudoku python=3.10`
 3. `conda activate sudoku`
-4. To install PyGame, `pip install pygame`. We will use PyGame for all assignments in this class.
+4. To install PyGame, `pip install pygame`. 
  
-You can run `conda deactivate` to deactivate the environment. The next time you want to work on the assignment, type `conda activate sudoku` first to use the exact same environment with PyGame installed.
+You can run `conda deactivate` to deactivate the environment. The next time you want to work on the game, type `conda activate sudoku` first to use the exact same environment with PyGame installed.
 
 Usage
 ----
