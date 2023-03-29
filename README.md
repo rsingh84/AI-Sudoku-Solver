@@ -11,6 +11,7 @@ You can run `conda deactivate` to deactivate the environment. The next time you 
 
 Usage
 ----
+In the main.py on line 211, replace the prop_tc text string with your unique Sudoku problem. From left to right to top to bottom, type the numbers in and for the blank spots put a period. Save the file. 
 Simply run `python main.py`
 
 Tips & FAQ
